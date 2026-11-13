@@ -225,7 +225,7 @@ Provides a consolidated snapshot of digital payment performance.
 - Transaction type distribution.
 - State-wise transaction map.
 
-!"C:\Users\vedan\OneDrive\Desktop\Phone Pe -Digital-Payments-Analytics\images\1_overview.png"
+![PhonePe Dashboard Overview](./images/1_overview.png)
 
 ### Page 2: Transaction Trends
 
@@ -240,7 +240,7 @@ Examines quarterly transaction performance and growth patterns.
 
 This page helps understand the pace of digital payment adoption and identify changes in transaction activity over time.
 
-!"C:\Users\vedan\OneDrive\Desktop\Phone Pe -Digital-Payments-Analytics\images\2_transaction-trends.png"
+![Transaction Trends](./images/2_transaction-trends.png)
 
 ### Page 3: User and Device Analysis
 
@@ -255,7 +255,7 @@ Examines registered-user adoption and mobile device preferences.
 
 This analysis provides insights into the geographical distribution of the user base and the device brands contributing to platform adoption.
 
-!"C:\Users\vedan\OneDrive\Desktop\Phone Pe -Digital-Payments-Analytics\images\3_user-device-analysis.png"
+![User and Device Analysis](./images/3_user-device-analysis.png)
 
 ### Page 4: State and District Performance
 
@@ -270,7 +270,7 @@ Provides a geographical comparison of transaction performance.
 
 This page helps identify leading geographical markets and compare transaction activity at different administrative levels.
 
-!"C:\Users\vedan\OneDrive\Desktop\Phone Pe -Digital-Payments-Analytics\images\4_state-district-performance.png"
+![State and District Performance](./images/4_state-district-performance.png)
 
 ### Page 5: User and Device Insights
 
@@ -284,7 +284,7 @@ Investigates regional differences in transaction contribution and user engagemen
 
 This page helps distinguish between markets with high transaction volumes and markets showing relatively stronger transaction activity per app open.
 
-!"C:\Users\vedan\OneDrive\Desktop\Phone Pe -Digital-Payments-Analytics\images\5_user-device-insights.png"
+![User and Device Insights](./images/5_user-device-insights.png)
 
 ### Page 6: Business Insights and Recommendations
 
@@ -301,7 +301,7 @@ Eight major insight areas are presented:
 7. Lower Share States.
 8. Emerging Opportunities.
 
-!"C:\Users\vedan\OneDrive\Desktop\Phone Pe -Digital-Payments-Analytics\images\6_business-insights.png"
+![Business Insights](./images/6_business-insights.png)
 
 ---
 
