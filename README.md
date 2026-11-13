@@ -225,7 +225,7 @@ Provides a consolidated snapshot of digital payment performance.
 - Transaction type distribution.
 - State-wise transaction map.
 
-![PhonePe Dashboard Overview](./images/1_overview.png)
+![PhonePe Overview](./Phone%20Pe%20-Digital-Payments-Analytics/images/1_overview.png)
 
 ### Page 2: Transaction Trends
 
@@ -240,7 +240,7 @@ Examines quarterly transaction performance and growth patterns.
 
 This page helps understand the pace of digital payment adoption and identify changes in transaction activity over time.
 
-![Transaction Trends](./images/2_transaction-trends.png)
+![Transaction Trends](./Phone%20Pe%20-Digital-Payments-Analytics/images/2_transaction-trends.png)
 
 ### Page 3: User and Device Analysis
 
@@ -255,7 +255,7 @@ Examines registered-user adoption and mobile device preferences.
 
 This analysis provides insights into the geographical distribution of the user base and the device brands contributing to platform adoption.
 
-![User and Device Analysis](./images/3_user-device-analysis.png)
+![User and Device Analysis](./Phone%20Pe%20-Digital-Payments-Analytics/images/3_user-device-analysis.png)
 
 ### Page 4: State and District Performance
 
@@ -270,7 +270,7 @@ Provides a geographical comparison of transaction performance.
 
 This page helps identify leading geographical markets and compare transaction activity at different administrative levels.
 
-![State and District Performance](./images/4_state-district-performance.png)
+![State and District Performance](./Phone%20Pe%20-Digital-Payments-Analytics/images/4_state-district-performance.png)
 
 ### Page 5: User and Device Insights
 
@@ -284,7 +284,7 @@ Investigates regional differences in transaction contribution and user engagemen
 
 This page helps distinguish between markets with high transaction volumes and markets showing relatively stronger transaction activity per app open.
 
-![User and Device Insights](./images/5_user-device-insights.png)
+![User and Device Insights](./Phone%20Pe%20-Digital-Payments-Analytics/images/5_user-device-insights.png)
 
 ### Page 6: Business Insights and Recommendations
 
@@ -301,7 +301,7 @@ Eight major insight areas are presented:
 7. Lower Share States.
 8. Emerging Opportunities.
 
-![Business Insights](./images/6_business-insights.png)
+![Business Insights](./Phone%20Pe%20-Digital-Payments-Analytics/images/6_business-insights.png)
 
 ---
 
@@ -401,6 +401,7 @@ Based on the findings, the following recommendations can be considered:
 
 ---
 
+
 ## 10. Repository Structure
 
 ```text
@@ -412,54 +413,68 @@ PhonePe-Digital-Payments-Analytics/
 │   └── PHONE PAY DATA.xlsx
 │
 ├── notebooks/
-│   └── Phonepe_Data_Analysis.ipynb
+│   └── Phone pay data analysis.ipynb
 │
-├── dashboard/
-│   ├── PhonePe_Dashboard.pbix
-│   └── PhonePe_Dashboard.pdf
+├── powerbi/
+│   ├── phonpe 2 dashboard.pbix
+│   └── phonpe 2 dashboard.pdf
 │
 ├── images/
-│   ├── overview.png
-│   ├── transaction-trends.png
-│   ├── user-device-analysis.png
-│   ├── state-district-performance.png
-│   ├── user-device-insights.png
-|   └── business-insights.png
+│   ├── 1_overview.png
+│   ├── 2_transaction-trends.png
+│   ├── 3_user-device-analysis.png
+│   ├── 4_state-district-performance.png
+│   ├── 5_user-device-insights.png
+│   └── 6_business-insights.png
+│
+└── requirements.txt
+```
 
+---
 
-**15. Key Skills Demonstrated**
+## 11. Key Skills Demonstrated
 
 **Technical Skills**
+
 - Python
 - Pandas and NumPy
 - Data Cleaning and Preprocessing
-- Exploratory Data Analysis
-- Statistical Analysis
-- Correlation Analysis
+- Exploratory Data Analysis (EDA)
+- Statistical and Correlation Analysis
 - Data Visualization
-- Power BI
-- Business Intelligence
+- Power BI and DAX
+- KPI Development and Dashboard Design
+- Microsoft Excel
 
-**Analytical Skills**
+**Analytical and Business Skills**
+
 - Business Problem Understanding
 - Data Quality Validation
-- Data Integration
-- KPI Analysis
-- Trend Analysis
-- Geographical Analysis
+- Data Integration and Transformation
+- Trend and Performance Analysis
+- Geographical and Demographic Analysis
 - Data Storytelling
-- Business Recommendations
+- Business Insights and Recommendations
+- Data-Driven Decision Making
 
-👨‍💻 Author
-Vedant Arora
+---
+
+## 12. Author
+
+**Vedant Arora**
 
 B.Tech Student | Aspiring Data Analyst
 
 Technical Interests: Python, SQL, Power BI, Data Analytics and Business Intelligence.
 
-⭐ Acknowledgement
+- GitHub: [Vedant-Ar](https://github.com/Vedant-Ar)
+
+---
+
+## 13. Acknowledgement
+
 This project uses PhonePe Pulse data for educational and analytical purposes.
 
-The analysis is intended to demonstrate practical data analytics and business intelligence skills through a real-world digital payments use case.
+The analysis demonstrates the practical application of Python and Power BI in transforming raw digital payment data into meaningful insights, interactive visualizations, and business-oriented recommendations.
 
-If you find this project useful, feel free to ⭐ the repository.
+If you find this project useful, feel free to ⭐ the repository!
